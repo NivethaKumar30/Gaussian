@@ -63,6 +63,8 @@ for i in range(n):
 ```
 
 ## Output:
+![maths 6](https://user-images.githubusercontent.com/119559844/215286278-6c7e3f84-bd04-4c15-a6c7-52ce2aff55a0.png)
+
 ![gaussian elimination]()
 
 
